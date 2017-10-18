@@ -1,2 +1,0 @@
-el sript "ejercicio" es el documento 
-que llama a las demas funciones.
